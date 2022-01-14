@@ -1,4 +1,4 @@
-
+## Forked for S&G (and learning of course)
 ## The official repository for the Scala 3 & FP Essentials course
 
 Powered by [Rock the JVM!](rockthejvm.com)
